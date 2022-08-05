@@ -45,4 +45,9 @@ venv/
 set_env.sh
 
 # deployment secrets
-udagram-deployment
+# udagram-deployment/aws-secret.yaml
+# udagram-deployment/env-secret.yaml
+
+
+aws-iam-authenticator.exe
+kubectl.exe
