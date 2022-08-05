@@ -45,8 +45,8 @@ venv/
 set_env.sh
 
 # deployment secrets
-# udagram-deployment/aws-secret.yaml
-# udagram-deployment/env-secret.yaml
+udagram-deployment/aws-secret.yaml
+udagram-deployment/env-secret.yaml
 
 
 aws-iam-authenticator.exe
