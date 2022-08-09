@@ -42,12 +42,12 @@ venv/
 !.elasticbeanstalk/*.global.yml
 
 # env
-set_env.sh
+#set_env.sh
 
 # deployment secrets
-udagram-deployment/aws-secret.yaml
-udagram-deployment/env-secret.yaml
+# udagram-deployments/aws-secret.yaml
+# udagram-deployments/env-secret.yaml
 
 
-aws-iam-authenticator.exe
-kubectl.exe
+#aws-iam-authenticator.exe
+#kubectl.exe
